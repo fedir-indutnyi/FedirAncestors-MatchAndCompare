@@ -1,7 +1,7 @@
 # Paths to the input and output files
-$txtfile = ".\..\OurFamilyTree_fromWikitree.ged"
+$txtfile = ".\..\..\..\OurFamilyTree_fromWikitree.ged"
 $newfile = "OurFamilyTree_fromWikitree.ged"
-$tsvFile = ".\..\ImageReferences.tsv"  # Path to the TSV file
+$tsvFile = ".\..\..\..\ImageReferences.tsv"  # Path to the TSV file
 $imagesPath = 'https://sxampp-sandbox.onrender.com/www/tree-images/images/' #'tree-images\images\'
 
 # Read the content of the input file
